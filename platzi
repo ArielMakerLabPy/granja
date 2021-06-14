@@ -1,15 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T18:26:14.370Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="eQSsvzT6vj3MRyApPOiF" version="14.7.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-14T21:22:50.921Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="uGE7yq0V5jWWs1Mvl6qw" version="14.7.7" type="github" pages="6">
   <diagram id="AU4CNrOu-eJe5V86XzH3" name="comoFunciona">
-    <mxGraphModel dx="686" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="694" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GfFhppaK6u6Jd2IcVI7u-1" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GfFhppaK6u6Jd2IcVI7u-2" value="Linea de flujo" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GfFhppaK6u6Jd2IcVI7u-1" edge="1">
+        <mxCell id="GfFhppaK6u6Jd2IcVI7u-2" value="Linea de flujo" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TucgC9Bs5ewUkKRYEV4P-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="350" as="sourcePoint" />
+            <mxPoint x="200" y="100" as="sourcePoint" />
             <mxPoint x="200" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -40,11 +37,14 @@
         <mxCell id="GfFhppaK6u6Jd2IcVI7u-9" value="Finalizar" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="505" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TucgC9Bs5ewUkKRYEV4P-3" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="OTvIOuA0U7Wqyev_960A" name="ejemploPitagora">
-    <mxGraphModel dx="686" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="694" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GyQ9HyOG_w097Qehu7h_-0" />
         <mxCell id="GyQ9HyOG_w097Qehu7h_-1" parent="GyQ9HyOG_w097Qehu7h_-0" />
@@ -189,11 +189,77 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="lXpOLmRJTMFu70u4K2oz" name="Page-4">
-    <mxGraphModel dx="694" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="lXpOLmRJTMFu70u4K2oz" name="variablesEjercicio">
+    <mxGraphModel dx="816" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5g78HVR7_VFEGXhmRcYB-0" />
         <mxCell id="5g78HVR7_VFEGXhmRcYB-1" parent="5g78HVR7_VFEGXhmRcYB-0" />
+        <mxCell id="gMvkIv8Hqt9Iwd2ortyZ-1" value="&lt;b&gt;Directorio telefonico&lt;br&gt;1.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;nombre= string&lt;br&gt;2.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;numerotelefonico = string (es mas fácil guardarlos en una cadena)&lt;br&gt;3.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;email = string&lt;br&gt;&lt;br&gt;Generando facturas&lt;br&gt;1.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;nombreCliente = string&lt;br&gt;2.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;numeroIdentificacion = string&lt;br&gt;3.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;telefono = string&lt;br&gt;4.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;servicio = string&lt;br&gt;5.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;cantidad = integer&lt;br&gt;6.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;valorUnitario = float&lt;br&gt;7.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;direccion = string&lt;br&gt;8.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;valorTotalProducto = float&lt;br&gt;9.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;valorTotalPagar = float&lt;br&gt;&lt;br&gt;Control de paso vehicular&lt;br&gt;1.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;pagoServicio = booleano&lt;br&gt;&lt;br&gt;Agenda personal&lt;br&gt;1.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;nombre = string&lt;br&gt;2.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;email = string&lt;br&gt;3.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;motivoAgendamiento = string&lt;br&gt;4.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;hora = float&lt;br&gt;&lt;br&gt;Sistema de parqueadero&lt;br&gt;1.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;espacioVacio = booleano&lt;br&gt;2.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;fechaHora = string&lt;br&gt;3.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;tiempoParqueado = integer&lt;br&gt;4.&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;tarifaMinuto = integer&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5g78HVR7_VFEGXhmRcYB-1">
+          <mxGeometry x="40" y="20" width="660" height="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q6Tcy7AtNKjwLnMqs7yM" name="encenderLampara-Condicionales">
+    <mxGraphModel dx="777" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-0" />
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-1" parent="2cSOJnMmwvw_BygPmTk6-0" />
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2cSOJnMmwvw_BygPmTk6-1" source="2cSOJnMmwvw_BygPmTk6-2" target="2cSOJnMmwvw_BygPmTk6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2cSOJnMmwvw_BygPmTk6-1">
+          <mxGeometry x="190" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-6" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2cSOJnMmwvw_BygPmTk6-1" source="2cSOJnMmwvw_BygPmTk6-3" target="2cSOJnMmwvw_BygPmTk6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-8" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2cSOJnMmwvw_BygPmTk6-1" source="2cSOJnMmwvw_BygPmTk6-3" target="2cSOJnMmwvw_BygPmTk6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-3" value="Lamp Conectada" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="2cSOJnMmwvw_BygPmTk6-1">
+          <mxGeometry x="210" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2cSOJnMmwvw_BygPmTk6-1" source="2cSOJnMmwvw_BygPmTk6-5" target="2cSOJnMmwvw_BygPmTk6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-5" value="Conectar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cSOJnMmwvw_BygPmTk6-1">
+          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-10" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2cSOJnMmwvw_BygPmTk6-1" source="2cSOJnMmwvw_BygPmTk6-7" target="2cSOJnMmwvw_BygPmTk6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-12" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2cSOJnMmwvw_BygPmTk6-1" source="2cSOJnMmwvw_BygPmTk6-7" target="2cSOJnMmwvw_BygPmTk6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-7" value="Foco Quemado" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="2cSOJnMmwvw_BygPmTk6-1">
+          <mxGeometry x="210" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2cSOJnMmwvw_BygPmTk6-1" source="2cSOJnMmwvw_BygPmTk6-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-9" value="Cambiar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cSOJnMmwvw_BygPmTk6-1">
+          <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2cSOJnMmwvw_BygPmTk6-1" source="2cSOJnMmwvw_BygPmTk6-11" target="2cSOJnMmwvw_BygPmTk6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-11" value="Reparar lampara" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2cSOJnMmwvw_BygPmTk6-1">
+          <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2cSOJnMmwvw_BygPmTk6-13" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2cSOJnMmwvw_BygPmTk6-1">
+          <mxGeometry x="190" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nd73zNdsuWRJGDG1-BQq" name="Page-6">
+    <mxGraphModel dx="932" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Xd80sM-cYU_G3EqcZLne-0" />
+        <mxCell id="Xd80sM-cYU_G3EqcZLne-1" parent="Xd80sM-cYU_G3EqcZLne-0" />
       </root>
     </mxGraphModel>
   </diagram>
