@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T12:10:25.140Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="ylmp_ZVqbgqP7lLGgnKt" version="14.7.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-14T18:26:14.370Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="eQSsvzT6vj3MRyApPOiF" version="14.7.7" type="github" pages="4">
   <diagram id="AU4CNrOu-eJe5V86XzH3" name="comoFunciona">
     <mxGraphModel dx="686" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,6 +186,14 @@
         <mxCell id="2E6yv16eh3rYmqeq2VO2-17" value="s=0&lt;br&gt;m=0&lt;br&gt;h=0&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="v5qXvkT8q3GcOcM25Wcl-1">
           <mxGeometry x="360" y="930" width="80" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lXpOLmRJTMFu70u4K2oz" name="Page-4">
+    <mxGraphModel dx="694" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5g78HVR7_VFEGXhmRcYB-0" />
+        <mxCell id="5g78HVR7_VFEGXhmRcYB-1" parent="5g78HVR7_VFEGXhmRcYB-0" />
       </root>
     </mxGraphModel>
   </diagram>
