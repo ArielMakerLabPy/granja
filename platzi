@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T11:47:24.330Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="bi4mLdw4gNDTen2NwDQQ" version="14.7.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-16T12:07:05.433Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="4BfewlPht9gPUxgfluYk" version="14.7.9" type="github" pages="8">
   <diagram id="AU4CNrOu-eJe5V86XzH3" name="comoFunciona">
     <mxGraphModel dx="932" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,14 +427,58 @@
         <mxCell id="MlHRcNlU6iX1DY5vhyGS-3" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MlHRcNlU6iX1DY5vhyGS-1">
           <mxGeometry x="330" y="10" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-14" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="MlHRcNlU6iX1DY5vhyGS-1" source="MlHRcNlU6iX1DY5vhyGS-4" target="MlHRcNlU6iX1DY5vhyGS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MlHRcNlU6iX1DY5vhyGS-4" value="Direccion SM&lt;br style=&quot;font-size: 10px&quot;&gt;t&lt;sub style=&quot;font-size: 10px&quot;&gt;maxllegad=30 min&lt;/sub&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" vertex="1" parent="MlHRcNlU6iX1DY5vhyGS-1">
           <mxGeometry x="315" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-15" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="MlHRcNlU6iX1DY5vhyGS-1" source="MlHRcNlU6iX1DY5vhyGS-8" target="MlHRcNlU6iX1DY5vhyGS-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MlHRcNlU6iX1DY5vhyGS-8" value="Buscar el lugar en maps y verificar posibles caminos" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=9;" vertex="1" parent="MlHRcNlU6iX1DY5vhyGS-1">
           <mxGeometry x="315" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-12" value="SI" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="MlHRcNlU6iX1DY5vhyGS-1" source="MlHRcNlU6iX1DY5vhyGS-9" target="MlHRcNlU6iX1DY5vhyGS-10">
+          <mxGeometry x="-0.8039" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;" edge="1" parent="MlHRcNlU6iX1DY5vhyGS-1" source="MlHRcNlU6iX1DY5vhyGS-9" target="MlHRcNlU6iX1DY5vhyGS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MlHRcNlU6iX1DY5vhyGS-9" value="&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-family: helvetica; font-size: 9px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(42, 42, 42); display: inline; float: none;&quot;&gt;Hay colectivo que pase cerca con t&lt;/span&gt;&lt;sub style=&quot;color: rgb(240, 240, 240); font-family: helvetica; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(42, 42, 42); font-size: 9px;&quot;&gt;espera&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/sub&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-family: helvetica; font-size: 9px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(42, 42, 42); display: inline; float: none;&quot;&gt;&amp;lt;=20 min AND trayecto &amp;lt;= 10 min&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;align=center;horizontal=1;verticalAlign=middle;fontSize=9;" vertex="1" parent="MlHRcNlU6iX1DY5vhyGS-1">
-          <mxGeometry x="290" y="270" width="180" height="60" as="geometry" />
+          <mxGeometry x="285" y="280" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-13" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="MlHRcNlU6iX1DY5vhyGS-1" source="MlHRcNlU6iX1DY5vhyGS-10" target="MlHRcNlU6iX1DY5vhyGS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-10" value="Tomar el colectivo" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=9;align=center;verticalAlign=middle;" vertex="1" parent="MlHRcNlU6iX1DY5vhyGS-1">
+          <mxGeometry x="130" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-11" value="FIN" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=9;align=center;verticalAlign=middle;" vertex="1" parent="MlHRcNlU6iX1DY5vhyGS-1">
+          <mxGeometry x="294" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-18" value="SI" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="MlHRcNlU6iX1DY5vhyGS-1" source="MlHRcNlU6iX1DY5vhyGS-16" target="MlHRcNlU6iX1DY5vhyGS-8">
+          <mxGeometry x="-0.6523" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="410" />
+              <mxPoint x="560" y="210" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-20" value="NO" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="MlHRcNlU6iX1DY5vhyGS-1" source="MlHRcNlU6iX1DY5vhyGS-16" target="MlHRcNlU6iX1DY5vhyGS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-16" value="Si voy en uber t&lt;sub&gt;maxllegad&lt;/sub&gt;&amp;nbsp;&amp;gt; 30 min" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=9;align=center;verticalAlign=middle;" vertex="1" parent="MlHRcNlU6iX1DY5vhyGS-1">
+          <mxGeometry x="460" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-21" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="MlHRcNlU6iX1DY5vhyGS-1" source="MlHRcNlU6iX1DY5vhyGS-19" target="MlHRcNlU6iX1DY5vhyGS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MlHRcNlU6iX1DY5vhyGS-19" value="Solicitar uber" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=9;align=center;verticalAlign=middle;" vertex="1" parent="MlHRcNlU6iX1DY5vhyGS-1">
+          <mxGeometry x="440" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
